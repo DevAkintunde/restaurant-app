@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/restaurant-app/static/css/main.a6c082ad.css",
-    "main.js": "/restaurant-app/static/js/main.d07b208a.js",
+    "main.css": "/restaurant-app/static/css/main.ae8b8f12.css",
+    "main.js": "/restaurant-app/static/js/main.482e8681.js",
     "static/media/semo.png": "/restaurant-app/static/media/semo.4c171bda6238d1376a0b.png",
     "static/media/fufu.jpg": "/restaurant-app/static/media/fufu.3cf54b3ba559b37da36f.jpg",
     "static/media/Kalam-Bold.ttf": "/restaurant-app/static/media/Kalam-Bold.c4671477e81c3c51ffc0.ttf",
@@ -14,11 +14,11 @@
     "static/media/jollof_fried.jpg": "/restaurant-app/static/media/jollof_fried.26c40a20b2e6110b1e54.jpg",
     "static/media/yam_egg.jpg": "/restaurant-app/static/media/yam_egg.93d270164093751534d8.jpg",
     "index.html": "/restaurant-app/index.html",
-    "main.a6c082ad.css.map": "/restaurant-app/static/css/main.a6c082ad.css.map",
-    "main.d07b208a.js.map": "/restaurant-app/static/js/main.d07b208a.js.map"
+    "main.ae8b8f12.css.map": "/restaurant-app/static/css/main.ae8b8f12.css.map",
+    "main.482e8681.js.map": "/restaurant-app/static/js/main.482e8681.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6c082ad.css",
-    "static/js/main.d07b208a.js"
+    "static/css/main.ae8b8f12.css",
+    "static/js/main.482e8681.js"
   ]
 }
