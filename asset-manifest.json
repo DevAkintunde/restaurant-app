@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.45f4542f.css",
-    "main.js": "/static/js/main.fe36cc9a.js",
-    "static/media/semo.png": "/static/media/semo.4c171bda6238d1376a0b.png",
-    "static/media/fufu.jpg": "/static/media/fufu.3cf54b3ba559b37da36f.jpg",
-    "static/media/Kalam-Bold.ttf": "/static/media/Kalam-Bold.c4671477e81c3c51ffc0.ttf",
-    "static/media/slide4.jpg": "/static/media/slide4.0d171d77b6df144e3504.jpg",
-    "static/media/slide1.jpg": "/static/media/slide1.bd39245933b19d2fd1f2.jpg",
-    "static/media/slide2.jpg": "/static/media/slide2.f039ae0ff9e32311224c.jpg",
-    "static/media/slide3.jpg": "/static/media/slide3.5afda6bff3f3a1e83211.jpg",
-    "static/media/Yam-pottage.jpg": "/static/media/Yam-pottage.c4fe006be293decd88e2.jpg",
-    "static/media/jollof-rice.jpg": "/static/media/jollof-rice.ca9d038d5fcc9d614102.jpg",
-    "static/media/jollof_fried.jpg": "/static/media/jollof_fried.26c40a20b2e6110b1e54.jpg",
-    "static/media/yam_egg.jpg": "/static/media/yam_egg.93d270164093751534d8.jpg",
-    "index.html": "/index.html",
-    "main.45f4542f.css.map": "/static/css/main.45f4542f.css.map",
-    "main.fe36cc9a.js.map": "/static/js/main.fe36cc9a.js.map"
+    "main.css": "/restaurant-app/static/css/main.a6c082ad.css",
+    "main.js": "/restaurant-app/static/js/main.d07b208a.js",
+    "static/media/semo.png": "/restaurant-app/static/media/semo.4c171bda6238d1376a0b.png",
+    "static/media/fufu.jpg": "/restaurant-app/static/media/fufu.3cf54b3ba559b37da36f.jpg",
+    "static/media/Kalam-Bold.ttf": "/restaurant-app/static/media/Kalam-Bold.c4671477e81c3c51ffc0.ttf",
+    "static/media/slide4.jpg": "/restaurant-app/static/media/slide4.0d171d77b6df144e3504.jpg",
+    "static/media/slide1.jpg": "/restaurant-app/static/media/slide1.bd39245933b19d2fd1f2.jpg",
+    "static/media/slide2.jpg": "/restaurant-app/static/media/slide2.f039ae0ff9e32311224c.jpg",
+    "static/media/slide3.jpg": "/restaurant-app/static/media/slide3.5afda6bff3f3a1e83211.jpg",
+    "static/media/Yam-pottage.jpg": "/restaurant-app/static/media/Yam-pottage.c4fe006be293decd88e2.jpg",
+    "static/media/jollof-rice.jpg": "/restaurant-app/static/media/jollof-rice.ca9d038d5fcc9d614102.jpg",
+    "static/media/jollof_fried.jpg": "/restaurant-app/static/media/jollof_fried.26c40a20b2e6110b1e54.jpg",
+    "static/media/yam_egg.jpg": "/restaurant-app/static/media/yam_egg.93d270164093751534d8.jpg",
+    "index.html": "/restaurant-app/index.html",
+    "main.a6c082ad.css.map": "/restaurant-app/static/css/main.a6c082ad.css.map",
+    "main.d07b208a.js.map": "/restaurant-app/static/js/main.d07b208a.js.map"
   },
   "entrypoints": [
-    "static/css/main.45f4542f.css",
-    "static/js/main.fe36cc9a.js"
+    "static/css/main.a6c082ad.css",
+    "static/js/main.d07b208a.js"
   ]
 }
